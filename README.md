@@ -1,0 +1,2 @@
+-A 404 page I did back in the day for the sake of training css and svg animations	<br>
+-It has a desert theme hence the name <br> -I like the end result
